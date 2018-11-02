@@ -36,3 +36,8 @@ kbd {
 .sound {
   font-size: 1.1rem;
 }
+
+.playing {
+  transform: scale(1.1);
+  box-shadow: 0 0 1rem dodgerblue;
+}
