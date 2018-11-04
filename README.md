@@ -14,3 +14,8 @@ This morning I made a real-time clock with CSS. I'm already amazed at how much y
 ![clock](https://user-images.githubusercontent.com/39119623/47951977-59212900-df60-11e8-86ee-1b2f691fccf3.PNG)
 
 *Fun fact: I finished this at midday so had to wait around for a minute to take the screenshot.*
+
+# Day 3
+Today's exercise was really cool! I used range sliders to dynamically change CSS variables, which morph the properties of the elements on the page. It was a lot easier than I thought it would be. Simple but effective.
+
+![css-variables](https://user-images.githubusercontent.com/39119623/47966009-8267b500-e045-11e8-855f-228d2a024091.PNG)
