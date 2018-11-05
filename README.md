@@ -19,3 +19,8 @@ This morning I made a real-time clock with CSS. I'm already amazed at how much y
 Today's exercise was really cool! I used range sliders to dynamically change CSS variables, which morph the properties of the elements on the page. It was a lot easier than I thought it would be. Simple but effective.
 
 ![css-variables](https://user-images.githubusercontent.com/39119623/47966009-8267b500-e045-11e8-855f-228d2a024091.PNG)
+
+# Day 4
+This one was a bit different to the rest. No front end magic but instead some good drills on using Array functions in JavaScript. I learned about the console.table() function to print out objects in a nice format. Wish I had known about this 2 months ago! These exercises were great practise in manipulating various forms of array.
+
+![array-cardio](https://user-images.githubusercontent.com/39119623/47999447-873a7080-e0fa-11e8-9831-a58239f21546.PNG)
