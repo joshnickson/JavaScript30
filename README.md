@@ -24,3 +24,8 @@ Today's exercise was really cool! I used range sliders to dynamically change CSS
 This one was a bit different to the rest. No front end magic but instead some good drills on using Array functions in JavaScript. I learned about the console.table() function to print out objects in a nice format. Wish I had known about this 2 months ago! These exercises were great practise in manipulating various forms of array.
 
 ![array-cardio](https://user-images.githubusercontent.com/39119623/47999447-873a7080-e0fa-11e8-9831-a58239f21546.PNG)
+
+# Day 5
+Today, I learned about flex in CSS and how it be used to create cool adaptable layouts. The panels of the gallery expand on click events, which also triggers text to expand and additional text to slide in from off-screen. On a side note, artsy pictures overlayed with motivational quotes are the worst. 
+
+![flex-gallery](https://user-images.githubusercontent.com/39119623/48206301-0384bc00-e366-11e8-8183-faae89c643fd.PNG)
