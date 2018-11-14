@@ -9,7 +9,17 @@
   <canvas id="draw" width="800" height="800"></canvas>
   <script>
   </script>
-
+    const canvas = document.querySelector('#draw');
+    const ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    ctx.strokestyle = '#000000';
+    ctx.lineJoin = 'round';
+    ctx.linecap = 'round';
+    
+    let isDrawing = false; 
+    let lastX = 0;
+    let lastY = 0;
   <style>
     html, body {
       margin: 0;
