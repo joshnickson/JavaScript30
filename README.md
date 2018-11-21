@@ -38,3 +38,8 @@ The task today was to create a search list that gives you suggestions based on y
 Eat your greens and do your array cardio. Here, I used some more array functions today: `some()`, `every()` and `find()`. Nothing very new here but always good practice maniupulating arrays.
 
 ![array-cardio-2](https://user-images.githubusercontent.com/39119623/48417374-7cab5700-e74a-11e8-918e-4acb1c12f603.PNG)
+
+## Day 7 - Fun with HTML5 Canvas
+The HTML5 canvas is a really powerful tool. It was even used in my final project [Trick or Eat Brains](http://trick-or-eat-brains.herokuapp.com/) to create a top-down zombie game with multiple object models. Here, I've used a cancas to draw lines in varying width and colour using hsl. 
+
+![html5-canvas](https://user-images.githubusercontent.com/39119623/48544429-7dafc600-e8bb-11e8-8b29-9132959df49b.PNG)
